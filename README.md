@@ -5,6 +5,7 @@ Atelier de lectures en sociologie de l'informatique, le premier jeudi du mois.
 ## 24/10
 
 Wendy Faulkner, "Dualisms, hierarchies and gender in engineering." Social Studies of Science 30.5 (2000): 759-792
+
 Collet, Isabelle, and Nicole Mosconi. 2010. “Les informaticiennes : de la dominance de classe aux discriminations de sexe ?” Nouvelles Questions Féministes 29(2):100–113. doi: 10.3917/nqf.292.0100.
 
 ## 07/11
