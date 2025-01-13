@@ -22,6 +22,10 @@ Diana E. Forythe, *Studying Those Who Study Us: An Anthropologist in the World o
 
 ## 06/02
 
+Gebru T. & Torres É. P. (2024), « The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence », First Monday.
+
+Alexandre O. & Coavoux S. (2021), « Les influenceurs de la Silicon Valley. Entreprendre, promouvoir et guider la révolution numérique », Sociologie, vol. 12, n°2, p. 111‑128.
+
 ## 06/03
 
 ## 03/04
