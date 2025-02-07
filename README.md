@@ -26,7 +26,9 @@ Edin Medina, *Cybernetic revolutionaries* (prologue, introduction, chapitre 1, c
 
 ## 06/03
 
-TBD
+Souchier C. (2019), « Science et techniques au service du public: La synchronisation des horloges parisiennes au XIX e siècle », Politix, vol. n° 125, p. 219‑237.
+
+Wajcman J. (2019), « The Digital Architecture of Time Management », Science, Technology, & Human Values, vol. 44, p. 315‑337.
 
 ## 03/04
 
