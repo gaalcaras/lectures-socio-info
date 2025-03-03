@@ -30,6 +30,8 @@ Souchier C. (2019), « Science et techniques au service du public: La synchroni
 
 Wajcman J. (2019), « The Digital Architecture of Time Management », Science, Technology, & Human Values, vol. 44, p. 315‑337.
 
+Bonus : Perlow L. A. (1999), « The Time Famine: Toward a Sociology of Work Time », Administrative Science Quarterly, vol. 44, n°1, p. 57‑81.
+
 ## 03/04
 
 Gebru T. & Torres É. P. (2024), « The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence », First Monday.
