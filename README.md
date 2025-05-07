@@ -42,9 +42,3 @@ Si vous êtes intéressé(e) à participer, merci de me contacter par email à :
 
 * Donald MacKenzie, "Material Signals: A Historical Sociology of High-Frequency Trading," *American Journal of Sociology* 123(6): 1635-83.
 * Muniesa, Fabian. (2000). "Un robot walrasien. Cotation électronique et justesse de la découverte des prix," *Politix* 13(52): 121-54.
-
----
-
-Ce format est prêt à être envoyé par email et suit bien la structure que tu souhaitais.
-
-
