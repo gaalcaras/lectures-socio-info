@@ -4,6 +4,31 @@ Cet atelier réunit sociologues et informaticien·nes autour de la sociologie de
 
 Si vous êtes intéressé(e) à participer, merci de me contacter par email à : gabriel (point) alcaras (at) sciencespo.fr
 
+## Programme 2025-26
+
+### 3 octobre 2025 - *Études algorithmiques*
+
+* Ensmenger, Nathan. 2012. “Is Chess the Drosophila of Artificial Intelligence? A Social History of an Algorithm.” *Social Studies of Science* 42(1):5–30.
+* Helmreich, Stefan. 1998. “Recombination, Rationality, Reductionism and Romantic Reactions: Culture, Computers, and the Genetic Algorithm.” *Social Studies of Science* 28(1):39–71.
+
+### 7 novembre 2025 - *L'informatique face au complexe militaire*
+
+* Edwards, Paul N. 1997. "The Closed World: Computers and the Politics of Discourse in Cold War America". Inside Technology. Cambridge, MA, USA: MIT Press.
+
+### 5 décembre 2025
+
+### 9 janvier 2026
+
+### 6 février 2026
+
+### 6 mars 2026
+
+### 3 avril 2026
+
+### 22 mai 2026
+
+### 5 juin 2026
+
 ## Programme 2024-25
 
 ### 24 octobre 2024 - *Les hiérarchies de genre en ingénierie*
