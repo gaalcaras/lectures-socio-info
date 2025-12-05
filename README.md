@@ -17,6 +17,13 @@ Si vous êtes intéressé(e) à participer, merci de me contacter par email à :
 
 ### 5 décembre 2025
 
+* Heurich, Guilherme Orlandini. 2024. Coderspeak. UCL Press.
+  *   Introduction (pp. 1-5) ;
+  *   Partie 1 : chapitre 1 (Principal engineer, pp. 9-17), chapitre 2 (Open source, pp. 19-29), chapitre 5 (A new service, pp. 53-63) ;
+  *   Partie 2 : chapitre 6 (Language dreams, pp. 67-76), chapitre 7 (Meta-programming, pp. 77-85), chapitre 8 (Happy programmers, pp. 87-96), chapitre 9 (Chunky bacon, pp. 97-105) ;
+  *   Partie 3 : chapitre 11 (Beautiful code, pp. 117-124), chapitre 12 (Computing gender, pp. 125-131).
+
+
 ### 9 janvier 2026
 
 ### 6 février 2026
