@@ -17,7 +17,7 @@ Si vous êtes intéressé(e) à participer, merci de me contacter par email à :
 
 ### 5 décembre 2025
 
-* Heurich, Guilherme Orlandini. 2024. Coderspeak. UCL Press.
+* Heurich, Guilherme Orlandini. 2024. *Coderspeak*. UCL Press.
   *   Introduction (pp. 1-5) ;
   *   Partie 1 : chapitre 1 (Principal engineer, pp. 9-17), chapitre 2 (Open source, pp. 19-29), chapitre 5 (A new service, pp. 53-63) ;
   *   Partie 2 : chapitre 6 (Language dreams, pp. 67-76), chapitre 7 (Meta-programming, pp. 77-85), chapitre 8 (Happy programmers, pp. 87-96), chapitre 9 (Chunky bacon, pp. 97-105) ;
@@ -25,6 +25,10 @@ Si vous êtes intéressé(e) à participer, merci de me contacter par email à :
 
 
 ### 9 janvier 2026
+* Dourish, Paul. 2017. *The Stuff of Bits: An Essay on the Materialities of Information*. The MIT Press.
+  *   Chapitre 1. Introduction: Information as Material, pp. 1-31.
+  *   Chapitre 2. The Landscape of Materialities, pp. 33-59.
+  *   Chapitre 4. Spreadsheets and Spreadsheet Events in Organizational Life, pp. 81-104.
 
 ### 6 février 2026
 
