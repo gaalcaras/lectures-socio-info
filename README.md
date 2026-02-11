@@ -15,18 +15,29 @@ Si vous êtes intéressé(e) à participer, merci de me contacter par email à :
 
 * Edwards, Paul N. 1997. "The Closed World: Computers and the Politics of Discourse in Cold War America". Inside Technology. Cambridge, MA, USA: MIT Press.
 
-### 5 décembre 2025
+### 5 décembre 2025 - *Langages de programmation et anthropologie linguistique*
 
-* Heurich, Guilherme Orlandini. 2024. Coderspeak. UCL Press.
+* Heurich, Guilherme Orlandini. 2024. *Coderspeak*. UCL Press.
   *   Introduction (pp. 1-5) ;
   *   Partie 1 : chapitre 1 (Principal engineer, pp. 9-17), chapitre 2 (Open source, pp. 19-29), chapitre 5 (A new service, pp. 53-63) ;
   *   Partie 2 : chapitre 6 (Language dreams, pp. 67-76), chapitre 7 (Meta-programming, pp. 77-85), chapitre 8 (Happy programmers, pp. 87-96), chapitre 9 (Chunky bacon, pp. 97-105) ;
   *   Partie 3 : chapitre 11 (Beautiful code, pp. 117-124), chapitre 12 (Computing gender, pp. 125-131).
 
 
-### 9 janvier 2026
+### 9 janvier 2026 - *Matérialités de l'information*
 
-### 6 février 2026
+* Dourish, Paul. 2017. *The Stuff of Bits: An Essay on the Materialities of Information*. Cambridge, Massachusetts: The MIT Press. 
+  * Chapitre 1. Introduction: Information as Material, 31 p.
+  * Chapitre 2. The Landscape of Materialities, 27 p.
+  * Chapitre 4. Spreadsheets and Spreadsheet Events in Organizational Life, 24 p.
+
+### 6 février 2026 - *Ethnographie des agents conversationnels*
+
+Trois articles du numéro 220-221 de *Réseaux*, "Ethnographie des agents conversationnels* (2020) :
+
+* Esteban C. (2020), « Construire la "compréhension" d’une machine: une ethnographie de la conception de deux chatbots commerciaux », Réseaux, vol. 220-221, no 2, p. 195‑222.
+* Licoppe C. & Rollet N. (2020), « "Je dois y aller". Analyses de séquences de clôtures entre humains et robot », Réseaux, vol. 220-221, no 2, p. 151‑193.
+* Velkovska J., Zouinar M. & Veyrier C.-A. (2020), « Les relations aux machines "conversationnelles" : vivre avec les assistants vocaux à la maison », Réseaux, vol. 220-221, no 2, p. 47‑79.
 
 ### 6 mars 2026
 
