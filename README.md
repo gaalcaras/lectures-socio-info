@@ -41,6 +41,13 @@ Trois articles du numéro 220-221 de *Réseaux*, "Ethnographie des agents conver
 
 ### 6 mars 2026
 
+Dorschel, R. (2025) *The social codes of tech workers: class identity in digital capitalism*. Cambridge, Massachusetts: MIT Press (Labor and technology).
+
+* Prologue
+* Chapter 1. Introduction
+* Chapter 3. Hybrid Professional Roles
+* Chapter 7. Glitches in the Class Matrix
+
 ### 3 avril 2026
 
 ### 22 mai 2026
@@ -85,7 +92,3 @@ Trois articles du numéro 220-221 de *Réseaux*, "Ethnographie des agents conver
 
 * Donald MacKenzie, "Material Signals: A Historical Sociology of High-Frequency Trading," *American Journal of Sociology* 123(6): 1635-83.
 * Muniesa, Fabian. (2000). "Un robot walrasien. Cotation électronique et justesse de la découverte des prix," *Politix* 13(52): 121-54.
-
-### 12 juin 2025
-
-### 3 juillet 2025
