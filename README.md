@@ -39,7 +39,7 @@ Trois articles du numéro 220-221 de *Réseaux*, "Ethnographie des agents conver
 * Licoppe C. & Rollet N. (2020), « "Je dois y aller". Analyses de séquences de clôtures entre humains et robot », Réseaux, vol. 220-221, no 2, p. 151‑193.
 * Velkovska J., Zouinar M. & Veyrier C.-A. (2020), « Les relations aux machines "conversationnelles" : vivre avec les assistants vocaux à la maison », Réseaux, vol. 220-221, no 2, p. 47‑79.
 
-### 6 mars 2026
+### 6 mars 2026 − *Les codes sociaux de la tech*
 
 Dorschel, R. (2025) *The social codes of tech workers: class identity in digital capitalism*. Cambridge, Massachusetts: MIT Press (Labor and technology).
 
@@ -48,9 +48,13 @@ Dorschel, R. (2025) *The social codes of tech workers: class identity in digital
 * Chapter 3. Hybrid Professional Roles
 * Chapter 7. Glitches in the Class Matrix
 
-### 3 avril 2026
+### 3 avril 2026 − *Qu'est-ce qu'un·e tech worker?*
 
-### 22 mai 2026
+Discussion autour du numéro thématique : Niebler, Valentin, Helene Thaa, Sandra Sieron, and Felix Gnisa (dir). 2025. “Trouble in Paradise?: Tech Work and Its Discontents.” *Work Organisation, Labour & Globalisation* 19(1). doi:10.13169/workorgalaboglob.19.1.0007.
+
+### 22 mai 2026 − *Sociologie du test*
+
+Sélection de textes à venir.
 
 ### 5 juin 2026
 
