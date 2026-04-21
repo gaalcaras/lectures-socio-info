@@ -13,7 +13,7 @@ Si vous êtes intéressé(e) à participer, merci de me contacter par email à :
 
 ### 7 novembre 2025 - *L'informatique face au complexe militaire*
 
-* Edwards, Paul N. 1997. "The Closed World: Computers and the Politics of Discourse in Cold War America". Inside Technology. Cambridge, MA, USA: MIT Press.
+* Edwards, Paul N. 1997. "The Closed World: Computers and the Politics of Discourse in Cold War America". Inside Technology. Cambridge, MA, USA: MIT Press. (Chapters 1, 2 & 5; Bonus : 3 & 4).
 
 ### 5 décembre 2025 - *Langages de programmation et anthropologie linguistique*
 
@@ -54,7 +54,9 @@ Discussion autour du numéro thématique : Niebler, Valentin, Helene Thaa, Sandr
 
 ### 22 mai 2026 − *Sociologie du test*
 
-Sélection de textes à venir.
+* Marres, Noortje, and David Stark. 2020. “Put to the Test: For a New Sociology of Testing.” The British Journal of Sociology 71(3):423–43. doi:10.1111/1468-4446.12746.
+* Marres, Noortje. 2025a. “Do Automated Vehicle Trials Test Society? Testing Mobility Futures in the West Midlands.” Mobilities 20(2):271–91. doi:10.1080/17450101.2024.2356566.
+* Marres, Noortje. 2025b. “How Tech Trials Put Society to the Test.” Theory, Culture & Society 02632764251342911. doi:10.1177/02632764251342911.
 
 ### 5 juin 2026
 
